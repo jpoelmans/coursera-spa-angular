@@ -12,7 +12,9 @@ function ShoppingListCheckOffService() {
   var itemsToBuy = [
     { name: "cookies", quantity: 10 },
     { name: "crackers", quantity: 25 },
-    { name: "marshmallows", quantity: 100 }
+    { name: "marshmallows", quantity: 100 },
+    { name: "cakes", quantity: 75 },
+    { name: "apples", quantity: 2 }
   ];
   var itemsBought = [];
 
